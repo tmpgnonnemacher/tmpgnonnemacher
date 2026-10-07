@@ -1,5 +1,6 @@
 # Olá, sou Gabriel Nonnemacher! 👋😊
 
+<br/>
 💻 **Engenheiro de Software** com mais de 4 anos de experiência na CWI Software, criando aplicativos escaláveis e de alta qualidade para clientes corporativos. Atualmente atuo na Care Plus, entregando soluções focadas em desempenho, manutenibilidade e experiência do usuário.  
 
 __________________
